@@ -1,1 +1,1 @@
-# Progetto-Intelligenza-Artificiale-e-Machine-Learning
+# Progetto Intelligenza Artificiale e Machine Learning
